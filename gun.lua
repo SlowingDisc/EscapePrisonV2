@@ -45,7 +45,7 @@ end
 
 tp(869, 500, -1062)
 
-wait(5)
+wait(8)
 
 
 local _speed=400
